@@ -1,0 +1,85 @@
+basics:
+  name: Paul Bruno
+  summary: |
+    I want to build effective, even elegant software — well-built systems down to the bones
+    — and be an instrument of good, without (taking part in the company and its mission) as
+    well as within (inside the org as a leader wherever I should find myself).
+
+    Veteran web software engineer (**12+ yrs.**, incl. **7+ yrs. remote**); the weight of
+    these years counterbalanced by a curiosity and tenacity that have never left him.
+    Champion of elegant yet pragmatic engineering solutions (whatever the tech stack) and
+    cohesive, well-oiled, tight-knit engineering teams. Adept in serving and shepherding
+    new projects and mature software ecosystems, aiming his gusto at trail-blazing and
+    bug-fixing alike.
+
+  location:
+    city: Kansas City
+    region: MO
+    countryCode: US
+  phone: +1 214 766 5485
+  email: paulbruno@me.com
+  profiles:
+  - github:
+    network: GitHub
+    username: paulbruno
+    url: https://github.com/paulbruno
+  - linkedin:
+    network: LinkedIn
+    url: https://linkedin.com/in/paul--bruno
+work:
+  - slync.io:
+    name: Slync.io
+    position: Sr. Software Engineer (Full Stack) & Team Lead
+    url: https://www.slync.io
+    startDate: 2020-01-06
+    location: Dallas, TX
+    previousLocation: San Francisco, CA
+    remote: true
+    remoteLocation: Kansas City, MO
+    highlights:
+    - "Engineer #9 in Series B-achieving, hyper-growth logistics start-up"
+    - Team lead of core platform development team (backend-focused)
+    - Substantive contributions to end-user features (FE & BE) and architectural initiatives
+    - >
+      Core member of technical interviewing group, responsible for green-lighting 25% of the
+      quadrupled staff (within a year's time)
+  - freelance:
+    name: Freelance
+    position: Sr. Front End Engineer/Architect
+    url: https://paulbruno.co
+    startDate: 2018-09-03
+    endDate: 2019-12-31
+    location: Kansas City, MO
+    previousLocation: Dallas, TX
+    remote: true
+    summary: >
+      Freelance work for leading online publications like Dwell Magazine, international music
+      artists, health insurance start-ups and leading music instrument companies. (Key
+      technologies: JavaScript [Node.js, Vue, React, Redux, jQuery, etc.], MongoDB, Sass, git,
+      Ruby/Jekyll, PHP, Twitter and Facebook APIs.)
+  - softvision:
+    name: Softvision
+    previousName: Double Prime
+    position: Sr. Front End Engineer
+    url: https://www.cognizantsoftvision.com
+    startDate: 2012-04-16
+    endDate: 2018-08-31
+    location: Oakland, CA
+    previousLocation: Ardmore, PA
+    remote: true
+    remoteLocation: Kansas City, MO
+    summary: >
+      Developed features and fixes as sr. engineer for high traffic e-commerce sites for several
+      brands of Fortune 500 cosmetics conglomerate. (Key technologies: JavaScript [jQuery], Sass,
+      git, PHP/Perl on backend, Google Maps APIs.)
+  - nexstar:
+    name: Nexstar Broadcasting
+    position: Full Stack Developer
+    url: https://www.nexstar.tv
+    startDate: 2010-11-04
+    endDate: 2011-09-29
+    location: Irving, TX
+    summary: >
+      Developed and maintained content management system for large, distributed network of
+      community portals connected to television conglomerate. (Key technologies: JavaScript [YUI],
+      PHP, Twitter/Facebook APIs, MySQL, third party weather APIs.)
