@@ -123,4 +123,4 @@ work:
       source of truth" state management, backend-seated logic and responsive front-end with modern
       (for its time) view markup and styling (standard "units"/composable pieces for atomic
       elements of the checkout forms) — in 2013–2014, well before widespread adoption of SPA
-      frameworks like React, Angular, et al.
+      frameworks like Angular, React, et al.
