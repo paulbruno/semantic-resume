@@ -21,20 +21,31 @@ basics:
 work:
   - slync.io:
     name: Slync.io
-    position: Sr. Software Engineer (Full Stack) & Team Lead
+    position: Lead Software Engineer
     url: https://www.slync.io
     startDate: 2020-01-06
     location: Dallas, TX
     previousLocation: San Francisco, CA
     remote: true
     remoteLocation: Kansas City, MO
+    summary: |
+      Seed-stage senior-turned-staff/-lead engineer, serving the company, its product and
+      engineering org by shipping important features, leading teams and presently doing
+      engineering org-wide developer experience/productivity work (reporting to VPE).
     highlights:
-    - "Engineer #9 in Series B-achieving, hyper-growth logistics start-up"
-    - Team lead of core platform development team (backend-focused)
-    - Substantive contributions to end-user features (FE & BE) and architectural initiatives
     - >
-      Core member of technical interviewing group, responsible for green-lighting 25% of the
-      quadrupled staff (within a year's time)
+      Own work included replacing Redis caching with a multi-leveled cache management employing an
+      in-memory (LRU)/Redis combo; moving data/automation platform to context management system;
+      implementing a multi-purpose feature flags/permissions architecture to serve the engineering
+      team as well as sales/marketing teams.
+    - >
+      Team lead of core platform development team (backend-focused); performed "glue work" and gave
+      guidance to team as they shipped features like custom filter lists (a heavily marketed
+      feature and marketplace differentiator); anchored product refinement and roadmap mtgs. with
+      platform features product manager.
+    - >
+      Core member of technical interviewing group, responsible for green-lighting 12 engineers of
+      the quadrupled engineering staff — 9 engineers to 40+ (8 to ~35 when excluding DevOps staff).
   - freelance:
     name: Freelance
     position: Sr. Front End Engineer/Architect
@@ -45,10 +56,23 @@ work:
     previousLocation: Dallas, TX
     remote: true
     summary: >
-      Freelance work for leading online publications like Dwell Magazine, international music
-      artists, health insurance start-ups and leading music instrument companies. (Key
-      technologies: JavaScript [Node.js, Vue, React, Redux, jQuery, etc.], MongoDB, Sass, git,
-      Ruby/Jekyll, PHP, Twitter and Facebook APIs.)
+      Freelance work for health insurance start-ups, financial service companies and leading online
+      publications like Dwell Magazine.
+    highlights:
+    - >
+      Architected and tech led the green-field front-end for start-up's members' portal; chose tech
+      stack (React, Redux, Redux Saga, Styled Components, webpack, etc.); built lion's share of
+      foundational code; code reviewed much of the remaining shipped code from teammates; educated
+      team on best practices and reasons behind approaches taken in architecture.
+    - >
+      Lead engineer and JavaScript SME for development consortium serving financial services
+      companies; re-architected and -built main intake web form in Vue (using an SFC to bind together
+      the in-page application); built API proxy in Node.js (doing data clean-up and forwarding
+      to legacy .NET API/backend); time to develop and deploy sites was reduced by over half.
+    - >
+      Implemented features and fixes working under Dwell Magazine's FE lead engineer, on isomorphic
+      React/Redux application, incl. Google AMP pages, image gallery updates and fixes to rental
+      booking Stripe implementation.
   - softvision:
     name: Softvision
     previousName: Double Prime
@@ -61,17 +85,32 @@ work:
     remote: true
     remoteLocation: Kansas City, MO
     summary: >
-      Developed features and fixes as sr. engineer for high traffic e-commerce sites for several
-      brands of Fortune 500 cosmetics conglomerate. (Key technologies: JavaScript [jQuery], Sass,
-      git, PHP/Perl on backend, Google Maps APIs.)
-  - nexstar:
-    name: Nexstar Broadcasting
-    position: Full Stack Developer
-    url: https://www.nexstar.tv
-    startDate: 2010-11-04
-    endDate: 2011-09-29
-    location: Irving, TX
-    summary: >
-      Developed and maintained content management system for large, distributed network of
-      community portals connected to television conglomerate. (Key technologies: JavaScript [YUI],
-      PHP, Twitter/Facebook APIs, MySQL, third party weather APIs.)
+      Senior FE engineer, developing features, fixes and architectural initiatives for key 
+      brands of Fortune 500 cosmetics conglomerate (Estee Lauder and its subsidiaries — MAC
+      Cosmetics, Aveda, etc.).
+    highlights:
+    - >
+      Key FE engineer in several site redesign/-build projects (Aveda, Bobbi Brown, Origins, etc.);
+      benefits were twofold: multi-million dollar projects would drive multiples of that in revenue
+      (via the engagment with the new designs, better IA/UX and marketing push to the renewed
+      sites) and retrofitting these sites with better content management tools enabled greater
+      internal efficiency for the client, as they self-managed non-mission-critical details of the
+      sites' look-and-feel and product content/copy.
+    - >
+      Served as co-team lead for the EMEA group, then later as the LATAM team lead, managing
+      varied teams of the client's FT engineers (EMEA group, UK-based) and our own engineers
+      (LATAM group, Argentina-based). Lead both groups in new site builds, region-specific feature
+      development (e.g., new payment provider implementation for Mexico), code reviews and
+      mentorship through both tenures.
+    - >
+      Served as front-end engineering anchor for "white label" project, enabling the quicker
+      building of new sites and redesigned/-built sites with a generic starting point to be cloned
+      from, with an appropriate amt. of features most commonly needed for these sites, implemented
+      carefully 
+    - >
+      Key engineer for client's "single-page checkout" project, rebuilding our standard
+      checkout views, flows and logic into a pluggable checkout application, replete with "single
+      source of truth" state management, backend-seated logic and responsive front-end with modern
+      (for its time) view markup and styling (standard "units"/composable pieces for atomic
+      elements of the checkout forms) — in 2013–2014, well before widespread adoption of SPA
+      frameworks like React, Angular, et al.
