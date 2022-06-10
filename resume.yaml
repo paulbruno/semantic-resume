@@ -37,7 +37,7 @@ work:
       engineering org-wide developer experience/productivity work (reporting to VPE).
     highlights:
     - >
-      Own work included replacing Redis caching with a multi-leveled cache management employing an
+      Own work includes replacing Redis caching with a multi-leveled cache management employing an
       in-memory (LRU)/Redis combo; moving data/automation platform to context management system;
       implementing a multi-purpose feature flags/permissions architecture to serve the engineering
       team as well as sales/marketing teams.
