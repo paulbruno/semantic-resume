@@ -37,7 +37,7 @@ work:
       engineering org-wide developer experience/productivity work (reporting to VPE).
     highlights:
     - >
-      Own work included replacing Redis caching with a multi-leveled cache management employing an
+      Own work includes replacing Redis caching with a multi-leveled cache management employing an
       in-memory (LRU)/Redis combo; moving data/automation platform to context management system;
       implementing a multi-purpose feature flags/permissions architecture to serve the engineering
       team as well as sales/marketing teams.
@@ -49,6 +49,13 @@ work:
     - >
       Core member of technical interviewing group, responsible for green-lighting 12 engineers of
       the quadrupled engineering staff — 9 engineers to 40+ (8 to ~35 when excluding DevOps staff).
+    - >
+      Present developer experience work (Jan. 2022–present) encompasses reducing friction and
+      enabling easier shipping for feature development teams; personally shipped large refactor of
+      test org/data bootstrapping, eliminating flapping tests costing voluminous man-hours and CI/CD
+      test runner time (and cost); working with technical product owner on roadmap and further
+      intiatives (e.g., tooling to help reduce raw time and cognitive load for reviews by
+      standardizing formatting, auto-correcting on save, for instance).
   - freelance:
     name: Freelance
     position: Sr. Front End Engineer/Architect
