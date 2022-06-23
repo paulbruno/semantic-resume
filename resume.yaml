@@ -54,7 +54,7 @@ work:
       enabling easier shipping for feature development teams; personally shipped large refactor of
       test org/data bootstrapping, eliminating flapping tests costing voluminous man-hours and CI/CD
       test runner time (and cost); working with technical product owner on roadmap and further
-      intiatives (e.g., tooling to help reduce raw time and cognitive load for reviews by
+      initiatives (e.g., tooling to help reduce raw time and cognitive load for reviews by
       standardizing formatting, auto-correcting on save, for instance).
   - freelance:
     name: Freelance
@@ -84,7 +84,7 @@ work:
       React/Redux application, incl. Google AMP pages, image gallery updates and fixes to rental
       booking Stripe implementation.
   - softvision:
-    name: Softvision
+    name: Cognizant Softvision
     previousName: Double Prime
     position: Sr. Front End Engineer
     url: https://www.cognizantsoftvision.com
@@ -116,7 +116,7 @@ work:
       Served as front-end engineering anchor for "white label" project, enabling the quicker
       building of new sites and redesigned/-built sites with a generic starting point to be cloned
       from, with an appropriate amt. of features most commonly needed for these sites, implemented
-      carefully 
+      carefully.
     - >
       Key engineer for client's "single-page checkout" project, rebuilding our standard
       checkout views, flows and logic into a pluggable checkout application, replete with "single
